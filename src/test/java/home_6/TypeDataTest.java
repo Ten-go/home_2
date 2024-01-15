@@ -51,7 +51,7 @@ public class TypeDataTest {
     }
 
     public static void combination() {
-        double c = 5/2;
+        double c = B/2;
         System.out.println("a = "+A);
         System.out.println("c = "+c);
 
